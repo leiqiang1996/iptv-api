@@ -2,9 +2,9 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
-
-
+https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u
+https://cdn.jsdelivr.net/gh/YanG-1989/m3u@main/China.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
 
 [WHITELIST]
